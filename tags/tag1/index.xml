@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag1 on 我的第一次</title>
+    <link>http://localhost:1313/tags/tag1/</link>
+    <description>Recent content in Tag1 on 我的第一次</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2025 11:29:29 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aa002</title>
+      <link>http://localhost:1313/posts/aa002/</link>
+      <pubDate>Tue, 25 Feb 2025 11:29:29 +0800</pubDate>
+      <guid>http://localhost:1313/posts/aa002/</guid>
+      <description>&lt;h2 id=&#34;标题&#34;&gt;标题&lt;/h2&gt;&#xA;&lt;p&gt;###标题3&lt;/p&gt;&#xA;&lt;p&gt;&amp;hellip;&#xA;make a code&#xA;&amp;hellip;&#xA;我是一个兵&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Abc01</title>
+      <link>http://localhost:1313/posts/abc01/</link>
+      <pubDate>Tue, 25 Feb 2025 09:29:32 +0800</pubDate>
+      <guid>http://localhost:1313/posts/abc01/</guid>
+      <description>&lt;p&gt;&amp;hellip;&#xA;这是代码&#xA;&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;**这是题目&lt;/p&gt;&#xA;&lt;p&gt;***这也是题目&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
